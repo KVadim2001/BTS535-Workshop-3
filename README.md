@@ -4,7 +4,7 @@
 |-------------------|---------------------|----------------|-------------------------------------|
 | Rianna Bellamy    | Front-End Developer |   |      |
 | Vadim Kurbanbakiyev | Back-End Developer  | KVadim2001    | vkurbanbakiyev@myseneca.ca|
-| Naoko Marin       | Database Specialist |      |         |
+| Naoko Marin       | Database Specialist | NaokoMarin     | nmarin@myseneca.ca        |
 | Thai Zyong Nguyen | UI/UX Designer      |       |         |
 
 ---
