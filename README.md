@@ -2,10 +2,10 @@
 
 | Name              | Role                | GitHub Handle  | Email                               |
 |-------------------|---------------------|----------------|-------------------------------------|
-| Rianna Bellamy    | Front-End Developer |   |      |
+| Rianna Bellamy    | Front-End Developer | QShirou  | rbellamy2@myseneca.ca     |
 | Vadim Kurbanbakiyev | Back-End Developer  | KVadim2001    | vkurbanbakiyev@myseneca.ca|
 | Naoko Marin       | Database Specialist | NaokoMarin     | nmarin@myseneca.ca        |
-| Thai Zyong Nguyen | UI/UX Designer      |       |         |
+| Thai Zyong Nguyen | UI/UX Designer      | jooohneth      | tznguyen@myseneca.ca        |
 
 ---
 
