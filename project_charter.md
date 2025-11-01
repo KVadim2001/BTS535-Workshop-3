@@ -33,6 +33,19 @@ Many car shops still rely on phone calls, paper-based systems, and manual schedu
 | 4 | Front-End Interface | Build responsive pages for customer and admin views | Week 5 |
 | 5 | System Testing & Deployment | Conduct integration testing, finalize documentation, and deploy final version | Week 6 |
 
+### 3.1 Work Breakdown Structure
+![Work Breakdown Structure](./images/WBS.jpg)
+
+### 3.2 Requirements Traceability Matrix
+
+| Req ID | Requirement | Del ID | Deliverable | Owner | Status |
+|--------|--------------|--------|--------------|--------|--------|
+| REQ01 | Hosting environment configured and connected to MongoDB | DEL01 | Server and database deployed successfully | Vadim (Back-End Dev) | In Progress |
+| REQ02 | Booking system allows customers to book, edit, and cancel appointments | DEL02 | Functional booking module with API endpoints | Vadim (Back-End Dev) | In Progress |
+| REQ03 |  | DEL03 |  |  |  |
+| REQ04 |  | DEL04 |  |  |  |
+| REQ05 |  | DEL05 |  |  |  |
+
 ---
 
 ## 4. Deliverables  
