@@ -42,7 +42,7 @@ Many car shops still rely on phone calls, paper-based systems, and manual schedu
 |--------|--------------|--------|--------------|--------|--------|
 | REQ01 | Hosting environment configured and connected to MongoDB | DEL01 | Server and database deployed successfully | Vadim (Back-End Dev) | In Progress |
 | REQ02 | Booking system allows customers to book, edit, and cancel appointments | DEL02 | Functional booking module with API endpoints | Vadim (Back-End Dev) | In Progress |
-| REQ03 |  | DEL03 |  |  |  |
+| REQ03 | Admins can check appointment requests, confirm bookings, and assign mechanics. | DEL03 |Admin maintenance assignment page |Naoko |In Progress|
 | REQ04 |  | DEL04 |  |  |  |
 | REQ05 |  | DEL05 |  |  |  |
 
