@@ -49,6 +49,7 @@ Many car shops still rely on phone calls, paper-based systems, and manual schedu
 | REQ03  | Admins can check appointment requests, confirm bookings, and assign mechanics. | DEL03  | Admin maintenance assignment page                                                                                  | Naoko (Database/Front-End) | In Progress |
 | REQ04  | Responsive UI design system and shared component library                       | DEL04  | Production‑ready React/Tailwind component library with a documented style guide                                    | Thai(UI/UX Designer)       | In Progress |
 | REQ05  | End‑to‑end UX for booking and admin workflows (dashboards + calendar)          | DEL05  | Customer and Admin dashboards with appointment calendar, validated forms, notifications, and usability test report | Thai(UI/UX Designer)       | In Progress |
+| REQ06  | Users can sign up, log in, and log out securely using email and passsword authentication | DEL06 | Functional Log In/ Sign Up screens that validate the user | Rianna (Front End Dev) | In Progress |
 
 ---
 
