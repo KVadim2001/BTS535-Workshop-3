@@ -36,6 +36,10 @@ Many car shops still rely on phone calls, paper-based systems, and manual schedu
 | 4   | Front-End Interface         | Build responsive pages for customer and admin views                            | Week 5      |
 | 5   | System Testing & Deployment | Conduct integration testing, finalize documentation, and deploy final version  | Week 6      |
 
+### 3.0.1 Gantt Chart
+
+![Gantt Chart](./images/gantt_chart_carshop.jpg)
+
 ### 3.1 Work Breakdown Structure
 
 ![Work Breakdown Structure](./images/WBS.jpg)
@@ -68,7 +72,16 @@ Many car shops still rely on phone calls, paper-based systems, and manual schedu
 
 ## 5. Preliminary Budget
 
-_(To be completed in later workshops.)_
+| Category | Item | Cost per Sprint | Quantity | Total Cost | Notes |
+|-----------|------|-----------------|-----------|-------------|-------|
+| **Personnel Costs** | Back-End Developer (Vadim) | $800 | 2 sprints | $1,600 | API, booking, maintenance |
+|  | Front-End Developer (Rianna) | $800 | 2 sprints | $1,600 | UI, UX, integration |
+|  | Database Specialist (Naoko) | $700 | 2 sprints | $1,400 | Schema design, queries |
+|  | UI/UX Designer (Thai) | $600 | 2 sprints | $1,200 | Wireframes, visuals |
+| **Fixed Costs** | Hosting (Heroku/Vercel) | $30 | 2 months | $60 | Includes domain & SSL |
+|  | Development Tools & Licenses | $40 | 1 | $40 | VS Code, testing tools |
+| **Contingency (10%)** | Risk reserve | — | — | $590 | Unexpected costs |
+| **Total Estimated Budget** |  |  |  | **$6,490** |  |
 
 ---
 
