@@ -88,7 +88,18 @@ Many car shops still rely on phone calls, paper-based systems, and manual schedu
 
 ## 6. Organization and Stakeholders
 
-_(To be completed in later workshops.)_
+### 6.1 Stakeholder Analysis Matrix
+
+![Stakeholder Analysis Matrix](./images/stakeholder_matrix.jpg)
+
+### 6.2 Communications Plan
+
+| Communication Item | Stakeholder(s) | Method | Frequency | Responsible | Purpose |
+|--------------------|----------------|--------|-----------|------------|---------|
+| **Weekly Sprint Sync** | Car Shop Owner, Lead Mechanic | Zoom / In-person | Weekly | Product Owner / Team Lead | Report progress and clarify requirements |
+| **Feature Updates & Changes** | Front Desk Staff, Customers | Email / Web Portal Notifications | As needed (each release) | Back-End & Front-End Team | Inform users of new features or changes |
+| **System Status & Security Updates** | IT Administrator | Slack / Email | Bi-weekly | Back-End Team | Ensure server, API, and database stability |
+| **Budget & Deployment Updates** | Accounting / Finance, Car Shop Owner | Report Document / Email | At end of each sprint | Scrum Master / Team Lead | Track costs, deployment progress, and risk status |
 
 ---
 
