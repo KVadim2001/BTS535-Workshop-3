@@ -36,15 +36,15 @@ Many car shops still rely on phone calls, paper-based systems, and manual schedu
 | 4   | Front-End Interface         | Build responsive pages for customer and admin views                            | Week 5      |
 | 5   | System Testing & Deployment | Conduct integration testing, finalize documentation, and deploy final version  | Week 6      |
 
-### 3.0.1 Gantt Chart
-
-![Gantt Chart](./images/gantt_chart_carshop.jpg)
-
 ### 3.1 Work Breakdown Structure
 
 ![Work Breakdown Structure](./images/WBS.jpg)
 
-### 3.2 Requirements Traceability Matrix
+### 3.2 Gantt Chart
+
+![Gantt Chart](./images/gantt_chart_carshop.jpg)
+
+### 3.3 Requirements Traceability Matrix
 
 | Req ID | Requirement                                                                    | Del ID | Deliverable                                                                                                        | Owner                      | Status      |
 | ------ | ------------------------------------------------------------------------------ | ------ | ------------------------------------------------------------------------------------------------------------------ | -------------------------- | ----------- |
