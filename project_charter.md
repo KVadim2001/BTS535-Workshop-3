@@ -105,6 +105,8 @@ Many car shops still rely on phone calls, paper-based systems, and manual schedu
 
 ## 7. Risks, Assumptions, and Constraints
 
-_(To be completed in later workshops.)_
+### 7.1 Risk Matrix
+
+![Risk Matrix](./images/risk_evaluation_chart.jpg)
 
 ---
