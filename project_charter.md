@@ -109,4 +109,16 @@ Many car shops still rely on phone calls, paper-based systems, and manual schedu
 
 ![Risk Matrix](./images/risk_evaluation_chart.jpg)
 
+### 7.2 Identified Project Risks
+
+| Risk ID | Risk Description | Likelihood | Impact | Category | Notes |
+|---------|------------------|------------|--------|----------|-------|
+| R01 | Database connection failure | High | High | Technical / Infrastructure | Critical backend dependency affecting all features. |
+| R02 | Server outage from hosting provider | Low | High | Hosting / External Dependency | Interrupts booking and maintenance workflows. |
+| R03 | Delay delivering or deploying updates | Low | High | Project / Scheduling | Blocks dependent tasks or releases. |
+| R04 | Minor UI display issues across browsers | High | Low | UI / Compatibility | Does not break functionality but affects usability. |
+| R05 | Typos or incorrect labels in the UI | Low | Low | UI / Content Quality | Minor but affects user trust and polish. |
+| R06 | Security vulnerability due to coding or configuration | Low | Low | Security | Depends on QA, code reviews, and testing. |
+
+
 ---
